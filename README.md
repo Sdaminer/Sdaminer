@@ -1,7 +1,7 @@
 # Hello!
 - 👋 Hi, I’m @Sdaminer
 - 👀 I’m interested in ...technology
-- 🌱 I’m currently learning ...how to use github pages!
+- 🌱 I’m currently learning ...HTML!
 - 💞️ I’m looking to collaborate on ...my website
 <!---
 Sdaminer/Sdaminer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
